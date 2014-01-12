@@ -1,0 +1,5 @@
+Building Storecoin
+
+See doc/build-*.md for instructions on building storecoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Storecoin.

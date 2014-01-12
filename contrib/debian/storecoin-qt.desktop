@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Storecoin
+Comment=Storecoin P2P Cryptocurrency
+Comment[fr]=Storecoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Storecoin, eşten eşe kriptografik sanal para birimi
+Exec=storecoin-qt %u
+Terminal=false
+Type=Application
+Icon=storecoin128
+MimeType=x-scheme-handler/storecoin;
+Categories=Office;Finance;
